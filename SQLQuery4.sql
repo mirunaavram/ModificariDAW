@@ -1,0 +1,1 @@
+﻿insert into AspNetRoles values('1', 'BasicUser','BASICUSER',null)
